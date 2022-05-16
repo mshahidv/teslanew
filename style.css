@@ -61,7 +61,7 @@ header nav.right{
     text-align: right;
 }
 .section1 {
-background-image: url('../assets/image1.jpg');
+background-image: url('./assets/image1.jpg');
 }
 
 .section2{
