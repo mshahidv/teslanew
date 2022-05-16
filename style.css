@@ -61,15 +61,15 @@ header nav.right{
     text-align: right;
 }
 .section1 {
-background-image: url('./assets/image1.jpg');
+background-image: url('../assets/image1.jpg');
 }
 
 .section2{
-    background-image: url('./assets/image2.jpg');
+    background-image: url('../assets/image2.jpg');
 }
 .section3
 {
-    background-image: url('./assets/image3.jpg');
+    background-image: url('../assets/image3.jpg');
 }
 .section4{
     background-image: url('./assets/image4.jpg');
