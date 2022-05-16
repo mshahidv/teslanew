@@ -61,11 +61,11 @@ header nav.right{
     text-align: right;
 }
 .section1 {
-background-image: url('../assets/image1.jpg');
+background-image: url('./assets/image1.jpg');
 }
 
 .section2{
-    background-image: url('../assets/image2.jpg');
+    background-image: url('./assets/image2.jpg');
 }
 .section3
 {
@@ -80,11 +80,11 @@ background-image: url('../assets/image1.jpg');
     background-image: url('../assets/image5.jpg');
 }
 .section6{
-    background-image: url('../assets/image6.jpg');
+    background-image: url('/assets/image6.jpg');
 }
 .section7
 {
-    background-image: url('../assets/accessories.jpg');
+    background-image: url('/assets/accessories.jpg');
 }
 section{
     height: 100vh;
